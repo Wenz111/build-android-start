@@ -15,4 +15,7 @@
 <img src="screenshots/chatSend.png" width="150">
 
 # Database Content
-<img src="screenshots/database content.png" width="150">
+<img src="screenshots/database content.jpg" width="300">
+
+# Sign Out
+<img src="screenshots/signOut.png" width="150">
