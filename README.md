@@ -8,7 +8,10 @@
 # Chat 1 (Default)
 <img src="screenshots/chat1.png" width="150">
 
-# Chat 2 (Images + Typing)
+# Chat 2 (Add Images)
+<img src="screenshots/InsertImagesToChat.png" width="150">
+
+# Chat 3 (Typing)
 <img src="screenshots/chat2.png" width="150">
 
 # Send Chat (Images + Typing)
